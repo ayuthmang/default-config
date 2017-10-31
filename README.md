@@ -4,7 +4,7 @@ A collection of default config file
 
 ## nginx
 
-From docker image nginx:1.13.5
+nginx version: nginx/1.10.3 (Ubuntu)
 
 ---
 
